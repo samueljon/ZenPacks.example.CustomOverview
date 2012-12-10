@@ -20,7 +20,11 @@ resources/zaasdevice.js
   Adds the *Technical Contact* to the bottom-left panel of the device overview
   screen.
 
-.. figure:: https://github.com/zenoss/ZenPacks.example.CustomOverview/raw/master/screenshots/technical_contact.png
+
+Screenshots
+-----------
+
+.. figure:: https://raw.github.com/cluther/ZenPacks.example.CustomOverview/master/screenshots/technical_contact.png
    :alt: Device overview screenshot showing technical contact field
 
    Device overview screenshot showing technical contact field.
